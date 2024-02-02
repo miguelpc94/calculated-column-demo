@@ -1,5 +1,7 @@
 # Calculated Column Demo
 
+You can access the demo page here: https://miguelpc94.github.io/calculated-column-demo/
+
 This application allows users to create and manage a data table. The unique feature of this application is the ability to create calculated columns. These columns are defined by mathematical expressions that can reference other columns in the table.
 
 ## Running the Application
