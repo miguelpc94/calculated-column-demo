@@ -1,0 +1,8 @@
+{
+  "short_name": "Opvia Product Interview Repo #1",
+  "name": "Opvia calculated columns interview question app",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
