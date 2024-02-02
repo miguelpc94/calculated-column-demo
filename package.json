@@ -1,8 +1,8 @@
 {
-  "name": "opv-int",
+  "name": "calc-demo",
   "private": true,
   "version": "0.1.2",
-  "description": "Opvia calculated columns interview question app",
+  "description": "Calculated column demo",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -28,5 +28,5 @@
     "typescript": "^4.6.4",
     "vite": "^3.1.0"
   },
-  "homepage": "https://miguelpc94.github.io/column-cals-interview"
+  "homepage": "https://miguelpc94.github.io/calculated-column-demo"
 }
